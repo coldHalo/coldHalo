@@ -1,16 +1,25 @@
-## Hi there 👋
+## 📖 About Me
 
-<!--
-**coldHalo/coldHalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨 17 years old
+- 🖥 Aspiring Software Engineer
+- 🎓 Studying Extended BTEC in Game Design
+- 🤔 Looking to go into a Programming role
 
-Here are some ideas to get you started:
+## 🔨 Currently Working On...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 My portfolio website
+- ✍️ Making a Roblox Game
+- 🤞 Trying to learn more about Cybersecurity
+
+## 🎯 My Goals
+
+- 🗂️ Work on a big project
+- 📈 Improve my programming and DevOps
+- 🥇 Start competitive programming
+
+## 🔔 Contact and Avalibility
+
+- [LinkedIn](https://www.linkedin.com/in/prestonmeakin/)
+- [Email Me](mailto:contact@pmprogramming.dpdns.org)
+
+I am open to collaborations and helping contribute to other projects.
