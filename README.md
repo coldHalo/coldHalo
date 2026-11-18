@@ -2,7 +2,7 @@
 
 - 👨 17 years old
 - 🖥 Aspiring Software Engineer
-- 🎓 Studying Extended BTEC in Game Design
+- 🎓 Studying a Level 3 Extended BTEC in Game Design
 - 🤔 Looking to go into a Programming role
 
 ## 🔨 Currently Working On...
