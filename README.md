@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=coldHalo&repo=coldhalo&countColor=%ffffff)
 
 ## 📖 About Me
 
