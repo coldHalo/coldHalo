@@ -12,6 +12,7 @@
 - 🌐 My portfolio website
 - ✍️ Making a Roblox Game
 - 🤞 Trying to learn more about Cybersecurity
+- 📊 Learning SQL
 
 ## 🎯 My Goals
 
